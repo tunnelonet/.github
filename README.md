@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tunnelo.net">
-    <img src="https://cdn.discordapp.com/attachments/1550717202104197152/1559935638533312513/logo-yellow.png" alt="Tunnelo" width="96" />
+    <img src="./assets/logo-yellow.png" alt="Tunnelo" width="96" />
   </a>
 </p>
 
